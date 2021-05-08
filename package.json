@@ -18,7 +18,7 @@
     "express-session": "^1.17.0",
     "mysql": "^2.18.1",
     "reflect-metadata": "^0.1.13",
-    "typeorm": "^0.2.22",
+    "typeorm": "^0.2.25",
     "typescript": "^3.8.2"
   },
   "devDependencies": {
